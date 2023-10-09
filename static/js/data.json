@@ -1,0 +1,1131 @@
+[
+      {
+            "Name": "Shaolin Monastery2",
+            "Topics": [
+                  "Data Types and Variables",
+                  "Operators"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194776"
+      },
+      {
+            "Name": "ternarySearch",
+            "Topics": [
+                  "Search and Sort"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194785"
+      },
+      {
+            "Name": "ksmallest",
+            "Topics": [
+                  "Search and Sort"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194786"
+      },
+      {
+            "Name": "twoArray",
+            "Topics": [
+                  "Search and Sort"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194787"
+      },
+      {
+            "Name": "evalString",
+            "Topics": [
+                  "Strings",
+                  "Queue/Stack",
+                  "Expression Evaluation"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194788"
+      },
+      {
+            "Name": "printFactor",
+            "Topics": [
+                  "Recursive Functions",
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194789"
+      },
+      {
+            "Name": "stringMerge",
+            "Topics": [
+                  "Search and Sort",
+                  "Strings",
+                  "Queue/Stack",
+                  "Expression Evaluation"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194790"
+      },
+      {
+            "Name": "matrixTh",
+            "Topics": [
+                  "Dynamic Memory Allocation",
+                  "Search and Sort",
+                  "Matrices"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194791"
+      },
+      {
+            "Name": "soudoko",
+            "Topics": [
+                  "Dynamic Memory Allocation",
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Matrices"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194792"
+      },
+      {
+            "Name": "maxMatrix",
+            "Topics": [
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Dynamic Memory Allocation",
+                  "Matrices"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194793"
+      },
+      {
+            "Name": "rankUnrank",
+            "Topics": [
+                  "Data Types and Variables",
+                  "Recursive Functions"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194794"
+      },
+      {
+            "Name": "permHamilton",
+            "Topics": [
+                  "Recursive Functions",
+                  "Data Types and Variables"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194795"
+      },
+      {
+            "Name": "edgecolor",
+            "Topics": [
+                  "Data Types and Variables"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194797"
+      },
+      {
+            "Name": "signCompare",
+            "Topics": [
+                  "Data Types and Variables",
+                  "Operators",
+                  "Conditional Controls"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194814"
+      },
+      {
+            "Name": "signSub",
+            "Topics": [
+                  "Data Types and Variables",
+                  "Operators"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194815"
+      },
+      {
+            "Name": "signRemind",
+            "Topics": [
+                  "Data Types and Variables",
+                  "Conditional Controls",
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194816"
+      },
+      {
+            "Name": "printFactor",
+            "Topics": [
+                  "Conditional Controls",
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194817"
+      },
+      {
+            "Name": "baseOperation",
+            "Topics": [
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Data Types and Variables",
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194848"
+      },
+      {
+            "Name": "stringPal",
+            "Topics": [
+                  "Data Types and Variables",
+                  "Loops",
+                  "Operators",
+                  "String Matching"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194849"
+      },
+      {
+            "Name": "romNum",
+            "Topics": [
+                  "Data Types and Variables",
+                  "Operators",
+                  "Conditional Controls",
+                  "Loops",
+                  "Arrays (1D",
+                  "2D",
+                  "and more)"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194850"
+      },
+      {
+            "Name": "stringPerm",
+            "Topics": [
+                  "Data Types and Variables",
+                  "Conditional Controls",
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194851"
+      },
+      {
+            "Name": "inversionCount",
+            "Topics": [
+                  "Operators",
+                  "Conditional Controls",
+                  "Loops",
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Recursive Functions"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194852"
+      },
+      {
+            "Name": "aString",
+            "Topics": [
+                  "Operators",
+                  "Loops",
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Recursive Functions"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194853"
+      },
+      {
+            "Name": "fractal",
+            "Topics": [
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Loops",
+                  "Matrices"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194854"
+      },
+      {
+            "Name": "oddOut",
+            "Topics": [
+                  "Loops",
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Operators"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194855"
+      },
+      {
+            "Name": "ternaryCode",
+            "Topics": [
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Loops",
+                  "String Matching"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194856"
+      },
+      {
+            "Name": "Abjad",
+            "Topics": [
+                  "Data Types and Variables",
+                  "Conditional Controls",
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194857"
+      },
+      {
+            "Name": "DigitSumP",
+            "Topics": [
+                  "Operators",
+                  "Data Types and Variables",
+                  "Loops",
+                  "Arrays (1D",
+                  "2D",
+                  "and more)"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194858"
+      },
+      {
+            "Name": "Encoding",
+            "Topics": [
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194859"
+      },
+      {
+            "Name": "SameChars",
+            "Topics": [
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Loops",
+                  "Conditional Controls"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194860"
+      },
+      {
+            "Name": "AtalMatal",
+            "Topics": [
+                  "Matrices",
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Loops",
+                  "Conditional Controls"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194861"
+      },
+      {
+            "Name": "Goals",
+            "Topics": [
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Loops",
+                  "Conditional Controls"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194862"
+      },
+      {
+            "Name": "Chess",
+            "Topics": [
+                  "Conditional Controls"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194870"
+      },
+      {
+            "Name": "fibThree",
+            "Topics": [
+                  "Conditional Controls",
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194869"
+      },
+      {
+            "Name": "leastComMult",
+            "Topics": [
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194871"
+      },
+      {
+            "Name": "octReverse",
+            "Topics": [
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194874"
+      },
+      {
+            "Name": "diamond",
+            "Topics": [
+                  "Conditional Controls",
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194875"
+      },
+      {
+            "Name": "digitAdd",
+            "Topics": [
+                  "Conditional Controls",
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195310"
+      },
+      {
+            "Name": "expon",
+            "Topics": [
+                  "Operators",
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195311"
+      },
+      {
+            "Name": "rectSum",
+            "Topics": [
+                  "Data Types and Variables",
+                  "Operators"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195312"
+      },
+      {
+            "Name": "LongComp",
+            "Topics": [
+                  "Data Types and Variables",
+                  "Operators"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195361"
+      },
+      {
+            "Name": "CookieParty",
+            "Topics": [
+                  "Conditional Controls"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195362"
+      },
+      {
+            "Name": "Down2Zero",
+            "Topics": [
+                  "Conditional Controls",
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195363"
+      },
+      {
+            "Name": "multStr",
+            "Topics": [
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195364"
+      },
+      {
+            "Name": "clrStr",
+            "Topics": [
+                  "Conditional Controls"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195365"
+      },
+      {
+            "Name": "sumString",
+            "Topics": [
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Operators",
+                  "Conditional Controls",
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195366"
+      },
+      {
+            "Name": "reverseStr",
+            "Topics": [
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195368"
+      },
+      {
+            "Name": "factorize",
+            "Topics": [
+                  "Conditional Controls",
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195369"
+      },
+      {
+            "Name": "printNum",
+            "Topics": [
+                  "Conditional Controls",
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195370"
+      },
+      {
+            "Name": "26Base",
+            "Topics": [
+                  "Conditional Controls",
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195372"
+      },
+      {
+            "Name": "tokenize",
+            "Topics": [
+                  "Conditional Controls",
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195374"
+      },
+      {
+            "Name": "stringMatch",
+            "Topics": [
+                  "Conditional Controls",
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195375"
+      },
+      {
+            "Name": "tansorMult",
+            "Topics": [
+                  "Matrices",
+                  "Loops",
+                  "Operators"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195376"
+      },
+      {
+            "Name": "matrixPat",
+            "Topics": [
+                  "Matrices",
+                  "Loops",
+                  "Conditional Controls"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195377"
+      },
+      {
+            "Name": "weirdKeyboard",
+            "Topics": [
+                  "Matrices",
+                  "Loops",
+                  "Conditional Controls"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195378"
+      },
+      {
+            "Name": "maxRandom",
+            "Topics": [
+                  "Data Types and Variables",
+                  "Operators",
+                  "Loops",
+                  "Arrays (1D",
+                  "2D",
+                  "and more)"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195527"
+      },
+      {
+            "Name": "studentCode",
+            "Topics": [
+                  "Operators",
+                  "Loops",
+                  "Conditional Controls"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195528"
+      },
+      {
+            "Name": "CampFire",
+            "Topics": [
+                  "Conditional Controls"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195351"
+      },
+      {
+            "Name": "Tile",
+            "Topics": [
+                  "Operators"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195354"
+      },
+      {
+            "Name": "PrimeFib",
+            "Topics": [
+                  "Functions",
+                  "Parameters",
+                  "Return Types",
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195355"
+      },
+      {
+            "Name": "MarvinTheMartian",
+            "Topics": [
+                  "Loops",
+                  "Strings",
+                  "Queue/Stack",
+                  "Expression Evaluation",
+                  "String Matching"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195357"
+      },
+      {
+            "Name": "Exam",
+            "Topics": [
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Loops",
+                  "Functions",
+                  "Parameters",
+                  "Return Types",
+                  "Functions",
+                  "Parameters",
+                  "Return Types"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195562"
+      },
+      {
+            "Name": "Tafresh",
+            "Topics": [
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195570"
+      },
+      {
+            "Name": "IceCream",
+            "Topics": [
+                  "Loops",
+                  "Arrays (1D",
+                  "2D",
+                  "and more)"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195634"
+      },
+      {
+            "Name": "MathComp-v1",
+            "Topics": [
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195690"
+      },
+      {
+            "Name": "MathComp-v2",
+            "Topics": [
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Search and Sort"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195700"
+      },
+      {
+            "Name": "Pastry",
+            "Topics": [
+                  "Recursive Functions"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195716"
+      },
+      {
+            "Name": "Winter",
+            "Topics": [
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Loops",
+                  "Operators"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195722"
+      },
+      {
+            "Name": "Maze",
+            "Topics": [
+                  "Strings",
+                  "Queue/Stack",
+                  "Expression Evaluation",
+                  "Recursive Functions"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195723"
+      },
+      {
+            "Name": "University",
+            "Topics": [
+                  "Strings",
+                  "Queue/Stack",
+                  "Expression Evaluation",
+                  "Search and Sort",
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195787"
+      },
+      {
+            "Name": "RepCount",
+            "Topics": [
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Loops",
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195788"
+      },
+      {
+            "Name": "Password",
+            "Topics": [
+                  "Recursive Functions"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195795"
+      },
+      {
+            "Name": "Subsequence",
+            "Topics": [
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Loops",
+                  "Conditional Controls",
+                  "Search and Sort"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195801"
+      },
+      {
+            "Name": "IncSub",
+            "Topics": [
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Loops",
+                  "Dynamic Programming"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195809"
+      },
+      {
+            "Name": "BeautifulSub",
+            "Topics": [
+                  "Search and Sort",
+                  "Strings",
+                  "Queue/Stack",
+                  "Expression Evaluation",
+                  "Dynamic Programming"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195810"
+      },
+      {
+            "Name": "fulMat",
+            "Topics": [
+                  "Loops",
+                  "Matrices",
+                  "Arrays (1D",
+                  "2D",
+                  "and more)"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194738"
+      },
+      {
+            "Name": "partSet",
+            "Topics": [
+                  "Loops",
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Data Types and Variables"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194739"
+      },
+      {
+            "Name": "nFraction",
+            "Topics": [
+                  "Loops",
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Recursive Functions",
+                  "Matrices",
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194740"
+      },
+      {
+            "Name": "maxSum",
+            "Topics": [
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Recursive Functions"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194741"
+      },
+      {
+            "Name": "minusOneFactory - v1",
+            "Topics": [
+                  "Data Types and Variables",
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Functions",
+                  "Parameters",
+                  "Return Types"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194743"
+      },
+      {
+            "Name": "minusOneFactory - v2",
+            "Topics": [
+                  "Data Types and Variables",
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Functions",
+                  "Parameters",
+                  "Return Types"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194744"
+      },
+      {
+            "Name": "BinaryC",
+            "Topics": [
+                  "Data Types and Variables",
+                  "Operators",
+                  "Conditional Controls",
+                  "Conditional Controls"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194745"
+      },
+      {
+            "Name": "Game Of Boredom",
+            "Topics": [
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Dynamic Programming",
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194746"
+      },
+      {
+            "Name": "Remaining Socks",
+            "Topics": [
+                  "Conditional Controls",
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194747"
+      },
+      {
+            "Name": "!AmongUs",
+            "Topics": [
+                  "Loops",
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Conditional Controls"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194748"
+      },
+      {
+            "Name": "Candles till the very end",
+            "Topics": [
+                  "Loops",
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Operators"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194749"
+      },
+      {
+            "Name": "Testcase Dilemma",
+            "Topics": [
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Loops",
+                  "Conditional Controls",
+                  "Dynamic Programming"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194750"
+      },
+      {
+            "Name": "Snacks",
+            "Topics": [
+                  "Operators",
+                  "Conditional Controls",
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/194751"
+      },
+      {
+            "Name": "GraphCycle",
+            "Topics": [
+                  "Graphs",
+                  "Recursive Functions",
+                  "Strings",
+                  "Queue/Stack",
+                  "Expression Evaluation",
+                  "Loops"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195812"
+      },
+      {
+            "Name": "graphCenter",
+            "Topics": [
+                  "Graphs",
+                  "Strings",
+                  "Queue/Stack",
+                  "Expression Evaluation",
+                  "Loops",
+                  "Dynamic Programming",
+                  "Recursive Functions"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195817"
+      },
+      {
+            "Name": "stringNum",
+            "Topics": [
+                  "Loops",
+                  "Arrays (1D",
+                  "2D",
+                  "and more)"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195593"
+      },
+      {
+            "Name": "printChar",
+            "Topics": [
+                  "Loops",
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Conditional Controls"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195594"
+      },
+      {
+            "Name": "translate",
+            "Topics": [
+                  "Loops",
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Conditional Controls"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195600"
+      },
+      {
+            "Name": "countNum",
+            "Topics": [
+                  "Loops",
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Conditional Controls",
+                  "Search and Sort"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195658"
+      },
+      {
+            "Name": "countRepeat",
+            "Topics": [
+                  "Loops",
+                  "Arrays(1D",
+                  "2D",
+                  "and more)"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195662"
+      },
+      {
+            "Name": "printHex",
+            "Topics": [
+                  "Loops",
+                  "Conditional Controls,",
+                  "Loops",
+                  "Conditional Controls",
+                  "Functions",
+                  "Loops",
+                  "Conditional Controls",
+                  "Functions",
+                  "Parameters",
+                  "Return Types"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195671"
+      },
+      {
+            "Name": "incAllDigit",
+            "Topics": [
+                  "Loops",
+                  "Data Types and Variables"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195848"
+      },
+      {
+            "Name": "sigma-power-2",
+            "Topics": [
+                  "Operators",
+                  "Functions",
+                  "Parameters",
+                  "Return Types"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195916"
+      },
+      {
+            "Name": "sort-zero-one-minus-one",
+            "Topics": [
+                  "Search and Sort",
+                  "Functions",
+                  "Parameters",
+                  "Return Types"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195917"
+      },
+      {
+            "Name": "balancePar",
+            "Topics": [
+                  "Strings",
+                  "Queue/Stack",
+                  "Expression Evaluation"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195918"
+      },
+      {
+            "Name": "max-num-str",
+            "Topics": [
+                  "Conditional Controls",
+                  "Loops",
+                  "Arrays (1D",
+                  "2D",
+                  "and more)"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195919"
+      },
+      {
+            "Name": "max-not-arr",
+            "Topics": [
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Search and Sort"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195920"
+      },
+      {
+            "Name": "matrix-write-rec",
+            "Topics": [
+                  "Matrices",
+                  "Recursive Functions"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195921"
+      },
+      {
+            "Name": "sumSubset",
+            "Topics": [
+                  "Arrays (1D",
+                  "2D",
+                  "and more)",
+                  "Functions",
+                  "Parameters",
+                  "Return Types"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195923"
+      },
+      {
+            "Name": "matrix-mod-rec",
+            "Topics": [
+                  "Matrices",
+                  "Recursive Functions"
+            ],
+            "State": "Registered",
+            "Link": "https://quera.org/course/assignments/57308/problems/195924"
+      }
+]

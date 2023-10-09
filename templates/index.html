@@ -1,0 +1,70 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Question Search</title>
+    <link rel="stylesheet" href="/static/css/styles.css" />
+</head>
+
+<body>
+    <div class="page-container">
+        <div class="search-container">
+            <h1>Question Search</h1>
+            <div class="search-tools">
+                <input type="text" id="searchInput" placeholder="Search by Name" />
+                <select id="statusSelect">
+                    <option value="">Select Status</option>
+                    <option value="Registered">Registered</option>
+                    <option value="In queue">In queue</option>
+                    <option value="Assigned">Assigned</option>
+                </select>
+            </div>
+        </div>
+        <div class="main-container">
+            <div class="topic-list">
+                <h2>Topics</h2>
+                <label class="topic-label" data-topic="Data Types and Variables">Data Types and Variables</label>
+                <label class="topic-label" data-topic="Operators">Operators</label>
+                <label class="topic-label" data-topic="Conditional Controls">Conditional Controls</label>
+                <label class="topic-label" data-topic="Loops">Loops</label>
+                <label class="topic-label" data-topic="Big-O Notation">Big-O Notation</label>
+                <label class="topic-label" data-topic="Arrays (1D, 2D, and more)">Arrays (1D, 2D, and more)</label>
+                <label class="topic-label" data-topic="Strings">Strings</label>
+                <label class="topic-label" data-topic="Pointers">Pointers</label>
+                <label class="topic-label" data-topic="Dynamic Memory Allocation">Dynamic Memory Allocation</label>
+                <label class="topic-label" data-topic="Functions, Parameters, Return Types">Functions, Parameters,
+                    Return Types</label>
+                <label class="topic-label" data-topic="Command Line Arguments, Pointer to Functions">Command Line
+                    Arguments, Pointer to Functions</label>
+                <label class="topic-label" data-topic="Recursive Functions">Recursive Functions</label>
+                <label class="topic-label" data-topic="Macros, Structures, and Unions">Macros, Structures, and
+                    Unions</label>
+                <label class="topic-label" data-topic="File Handling">File Handling</label>
+                <label class="topic-label" data-topic="Divide and Conquer">Divide and Conquer</label>
+                <label class="topic-label" data-topic="Dynamic Programming">Dynamic Programming</label>
+                <label class="topic-label" data-topic="Backtracking, Branch and Bound">Backtracking, Branch and
+                    Bound</label>
+                <label class="topic-label" data-topic="Search and Sort">Search and Sort</label>
+                <label class="topic-label" data-topic="String Matching">String Matching</label>
+                <label class="topic-label" data-topic="Matrix and Vector Operations">Matrix and Vector
+                    Operations</label>
+                <label class="topic-label" data-topic="Linked List">Linked List</label>
+                <label class="topic-label" data-topic="Queue/Stack">Queue/Stack</label>
+                <label class="topic-label" data-topic="Expression Evaluation">Expression Evaluation</label>
+                <label class="topic-label" data-topic="Trees">Trees</label>
+                <label class="topic-label" data-topic="Graph Algorithms">Graph Algorithms</label>
+            </div>
+            <div class="question-list">
+                <!-- Questions will be dynamically generated here -->
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/js/script.js"></script>
+</body>
+
+
+</html>
